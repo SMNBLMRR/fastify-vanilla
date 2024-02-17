@@ -10,6 +10,7 @@ module.exports = (env, argv) => {
       chunkFilename: `[name].chunks.js`,
       clean: true,
     },
+    mode: "development",
     devtool: "source-map",
     module: {
       rules: [

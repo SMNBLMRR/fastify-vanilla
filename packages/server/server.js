@@ -6,7 +6,7 @@ async function start() {
   try {
     await fastify.register(app);
     await fastify.listen({
-      port: 3002,
+      port: 3000,
       host: "0.0.0.0",
     });
   } catch (error) {
