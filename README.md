@@ -1,4 +1,4 @@
-# Fastify Static Server with Vanilla JS and Webpack
+# Fastify with Vanilla JS
 
 This project demonstrates a setup for serving static files using Fastify as the backend server and vanilla JavaScript with Webpack for the frontend. It combines the efficiency of Fastify for serving static content with the modern development workflow enabled by Webpack.
 
